@@ -1,3 +1,6 @@
+![CI](https://github.com/Laguiguepita/atelier-ci-cd-node/actions/workflows/ci.yml/badge.svg)
+
+
 # 🧪 Atelier CI/CD – Construire son premier pipeline
 
 Un petit projet pour mettre en place une intégration continue simple avec GitHub Actions ou GitLab CI/CD.
